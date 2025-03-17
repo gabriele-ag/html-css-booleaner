@@ -1,0 +1,104 @@
+/* Body */
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+/* Headaer */
+.thebooleaner {
+    background-color: rgb(0, 140, 255);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 28%;
+    width: 200%;
+    height: 100px;
+}
+
+.logo {
+    position: absolute;
+    top: 7%;
+    width: 150px;
+}
+
+/* Main */
+
+/* sezionetitolonews */
+.titolo1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.sottotestotitolo1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(128, 128, 128);
+}
+
+.booleaner {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 183, 255);
+}
+
+.datanews {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(128, 128, 128);
+}
+/* fine sezionetitolonews */
+
+/* sezioneimgtim */
+.didascaliaimg {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+/* fine sezioneimgtim */
+
+/* inizio sezionelistaetabella */
+.testatabella {
+    background-color: rgb(0, 140, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: aliceblue;
+
+}
+
+.primariga {
+    background-color: rgba(0, 140, 255, 0.37);
+    font-family: 'Times New Roman', Times, serif
+}
+
+.testoimportante {
+    background-color: rgb(255, 255, 0);
+    font-weight: normal;
+}
+/* fine sezionelistaetabella */
+
+/* inizio sezionetestosuimmagini */
+.titoloultimasezione {
+    color: rgb(128, 128, 128);
+}
+
+.testosuimmagine {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(240, 248, 255);
+    height: 200px;
+    
+}
+
+.testosuimmagine2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(240, 248, 255);
+    height: 200px;
+    
+}
+
+/* fine sezionetestosuimmagini */
