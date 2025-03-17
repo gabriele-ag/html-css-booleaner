@@ -1,6 +1,6 @@
 /* Body */
 body {
-    background-color: lightgray;
+    background-color: rgb(241, 241, 241);
 }
 
 /* Headaer */
@@ -39,7 +39,6 @@ body {
     font-size: 12px;
     color: rgb(128, 128, 128);
 }
-
 /* fine sezionetitolonews */
 
 /* sezioneimgtim */
@@ -47,6 +46,25 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
 }
-
 /* fine sezioneimgtim */
 
+/* inizio sezionelistaetabella */
+.testatabella {
+    background-color: rgb(0, 140, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: aliceblue;
+}
+
+.primariga {
+    background-color: rgba(0, 140, 255, 0.37);
+    font-family: 'Times New Roman', Times, serif
+}
+
+.testoimportante {
+    background-color: yellow;
+    font-weight: normal;
+}
+/* fine sezionelistaetabella */
+.testosuimmagine
+/* inizio sezionetestosuimmagini */
